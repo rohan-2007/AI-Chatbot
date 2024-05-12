@@ -1,0 +1,1 @@
+Simple AI chatbot made with Tensorflow's Sequential model that can answer basic questions about names, greetings, stocks, etc. The model employs a neural network consisting of dense layers with relu activation function and categorical crossentropy accuracy metrics.
